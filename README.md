@@ -11,12 +11,9 @@
 [![Gmail](https://img.shields.io/badge/-supriyasmadiwal@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:supriyasmadiwal@gmail.com)](mailto:supriyasmadiwal@gmail.com)
 
 
- <img align="right" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=supriya1511&show_icons=true hide_border=false&line_height=20&title_color=3e6ff7&icon_color=f700b5&show_owner=true"/>
-
-<!--
-**supriya1511/supriya1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=supriya1511&show_icons=true hide_border=false&line_height=20&title_color=3e6ff7&icon_color=f700b5&show_owner=true"/>
+ 
+ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -26,4 +23,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**supriya1511/supriya1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
