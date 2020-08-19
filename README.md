@@ -11,6 +11,8 @@
 [![Gmail](https://img.shields.io/badge/-supriyasmadiwal@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:supriyasmadiwal@gmail.com)](mailto:supriyasmadiwal@gmail.com)
 
 
+ <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=supriya1511&show_icons=true hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+
 <!--
 **supriya1511/supriya1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
