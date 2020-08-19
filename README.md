@@ -7,8 +7,8 @@
 
 [![Website](https://img.shields.io/website?label=SupriyaMadiwal&style=for-the-badge&url=https%3A%2F%2Fcharlesezra.github.io)](https://supriya1511.github.io/SupriyaMadiwal/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SupriyaMadiwal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcharlesezra&screen_name=SupriyaMadiwal)
-[![Linkedin](https://img.shields.io/badge/-iam--stevejkang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supriya-madiwal/)](https://www.linkedin.com/in/supriya-madiwal/)
-[![Gmail](https://img.shields.io/badge/-iam@juneyoung.io-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:iam@juneyoung.io)](mailto:supriyasmadiwal@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Supriya Madiwal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supriya-madiwal/)](https://www.linkedin.com/in/supriya-madiwal/)
+[![Gmail](https://img.shields.io/badge/-supriyasmadiwal@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:iam@juneyoung.io)](mailto:supriyasmadiwal@gmail.com)
 <!--
 **supriya1511/supriya1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
