@@ -31,6 +31,7 @@
     </td>
     <td>
       Know more about me
+      
 - 🔭 I’m currently working on UI/UX
 
 - 🌱 I’m currently learning Javascript
