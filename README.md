@@ -12,14 +12,13 @@
 
 
 
- 
  <table align='center'>
   <row>
     <td>
       <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=supriya1511&theme=graywhite&layout=compact'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=supriya1511&show_icons=true&theme=graywhite'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=supriya1511&show_icons=true&theme=blue'>
     </td>
   </row>
 </table>
