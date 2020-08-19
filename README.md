@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div>
   <h1 align="center"> 
-    <video width="500" height="500">
-  <source src="https://github.com/supriya1511/supriya1511/blob/master/peach.mp4" type="video/mp4"></video>
+   <img src=""https://github.com/supriya1511/supriya1511/blob/master/hello.gif" width="90px">
+  
   </h1>
 </div>
 <!--
