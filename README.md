@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
   <h1 align="center"> 
-   <img src=""https://github.com/supriya1511/supriya1511/blob/master/hello.gif" width="90px">
+   <img src="https://github.com/supriya1511/supriya1511/blob/master/hello.gif" width="90px">
   
   </h1>
 </div>
