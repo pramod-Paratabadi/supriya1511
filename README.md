@@ -32,7 +32,8 @@
 - 💬 Ask me about Wonders of UI/UX
 - ⚡ Fun fact: I love with octocats :)
 
-<img src="https://github.com/supriya1511/supriya1511/blob/master/Hello.gif">
+
+<img align="right" src="https://github.com/supriya1511/supriya1511/blob/master/Hello.gif">
   
   
 
