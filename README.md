@@ -41,7 +41,7 @@
 
     </td>
     <td>
-    <img height='300' src="https://github.com/supriya1511/supriya1511/blob/master/OctoGirl.png">\
+    <img height='300' src="https://github.com/supriya1511/supriya1511/blob/master/OctoGirl.png">
     </td>
    </row>
 </table>
