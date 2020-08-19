@@ -23,7 +23,7 @@
   </row>
 </table>
 
-
+<img align="right" src="https://github.com/supriya1511/supriya1511/blob/master/Hello.gif">
 ## Know more about me 
 
 - 🔭 I’m currently working on UI/UX
@@ -33,7 +33,7 @@
 - ⚡ Fun fact: I love with octocats :)
 
 
-<img align="right" src="https://github.com/supriya1511/supriya1511/blob/master/Hello.gif">
+
   
   
 
