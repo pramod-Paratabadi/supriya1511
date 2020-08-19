@@ -2,7 +2,7 @@
 <img src="https://github.com/supriya1511/supriya1511/blob/master/Hello.gif">
 </p>
 
-<p align="center" style="bold"> I am supriya and it is a pleasure to have you here! <p>
+<p align="center"><b> I am supriya and it is a pleasure to have you here!</b> <p>
   
   
 <!--
