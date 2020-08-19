@@ -27,9 +27,13 @@
 ## Know more about me 
 
 - 🔭 I’m currently working on UI/UX
+
 - 🌱 I’m currently learning Javascript
+
 - 🤔 I’m curios about Adobe after effect
+
 - 💬 Ask me about Wonders of UI/UX
+
 - ⚡ Fun fact: I love with octocats :)
 
 
