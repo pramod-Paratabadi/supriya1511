@@ -23,9 +23,7 @@
   </row>
 </table>
 
-<p align="center">
-  <div>
- 🔭 I’m currently working on UI/UX
+<p align="center"> -🔭 I’m currently working on UI/UX</p>
  🌱 I’m currently learning Javascript
  🤔 I’m looking for help with ...
  💬 Ask me about Wonders of UI/UX
