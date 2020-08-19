@@ -30,6 +30,7 @@
 <img height='250' align="right" src="https://github.com/supriya1511/supriya1511/blob/master/OctoGirl.png">
     </td>
     <td>
+      Know more about me
 - 🔭 I’m currently working on UI/UX
 
 - 🌱 I’m currently learning Javascript
