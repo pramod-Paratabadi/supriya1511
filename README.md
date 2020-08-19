@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/website?label=SupriyaMadiwal&style=for-the-badge&url=https%3A%2F%2FSupriyaMadiwal)](https://supriya1511.github.io/SupriyaMadiwal/) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SupriyaMadiwal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcharlesezra&screen_name=SupriyaMadiwal)
 [![Linkedin](https://img.shields.io/badge/-supriya--madiwal-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supriya-madiwal/)](https://www.linkedin.com/in/supriya-madiwal/)
-[![Gmail](https://img.shields.io/badge/-supriya-s-madiwal-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:supriyasmadiwal@gmail.com)](mailto:supriyasmadiwal@gmail.com)
+[![Gmail](https://img.shields.io/badge/-supriya--s--madiwal-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:supriyasmadiwal@gmail.com)](mailto:supriyasmadiwal@gmail.com)
 
 
  <table align='center'>
