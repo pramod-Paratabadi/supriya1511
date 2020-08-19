@@ -4,9 +4,11 @@
 
 <p align="center"><b> I am supriya and it is a pleasure to have you here!</b> <p>
  
-
+<center>
 [![Website](https://img.shields.io/website?label=SupriyaMadiwal&style=for-the-badge&url=https%3A%2F%2FSupriyaMadiwal)](https://supriya1511.github.io/SupriyaMadiwal/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SupriyaMadiwal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcharlesezra&screen_name=SupriyaMadiwal)
+ 
+ </center>
 
 <!--
 **supriya1511/supriya1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
