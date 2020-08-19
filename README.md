@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://github.com/supriya1511/supriya1511/blob/master/Hello.gif" width="90px">I amd supriya
+<h1 align="center"><img src="https://github.com/supriya1511/supriya1511/blob/master/Hello.gif" width="90px"></h1>
+<b align="center">I amd supriya</b>
   
   
 <!--
