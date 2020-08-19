@@ -23,13 +23,13 @@
   </row>
 </table>
 
-<p align="center">
+<h1 align="center">
  🔭 I’m currently working on UI/UX
  🌱 I’m currently learning Javascript
  🤔 I’m looking for help with ...
  💬 Ask me about Wonders of UI/UX
  😄 Pronouns: ...
- ⚡ Fun fact: I love octocats :)</p>
+ ⚡ Fun fact: I love octocats :)</h1>
 <!--- **supriya1511/supriya1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
