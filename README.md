@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on UI/UX
 - 🌱 I’m currently learning Javascript
-- 🤔 I’m looking for help with ...
+- 🤔 I’m curios about Adobe after effect
 - 💬 Ask me about Wonders of UI/UX
 - ⚡ Fun fact: I love with octocats :)
  <!--- **supriya1511/supriya1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
