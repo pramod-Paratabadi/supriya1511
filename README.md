@@ -24,6 +24,7 @@
 </table>
 
 <p align="center">
+  
 - 🔭 I’m currently working on UI/UX
   
 - 🌱 I’m currently learning Javascript
