@@ -11,17 +11,26 @@
 [![Gmail](https://img.shields.io/badge/-supriyasmadiwal@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:supriyasmadiwal@gmail.com)](mailto:supriyasmadiwal@gmail.com)
 
 
- <img align="left" width="490" height="165" padding="20" src="https://github-readme-stats.vercel.app/api?username=supriya1511&show_icons=true hide_border=false&line_height=20&title_color=3e6ff7&icon_color=f700b5&show_owner=true"/>
 
+ 
+ <table align='center'>
+  <row>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=supriya1511&theme=graywhite&layout=compact'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=supriya1511&show_icons=true&theme=graywhite'>
+    </td>
+  </row>
+</table>
+
+<!--
 - 🔭 I’m currently working on UI/UX
 - 🌱 I’m currently learning Javascript
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Wonders of UI/UX
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love octocats :)
-
-<!--
-**supriya1511/supriya1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact: I love octocats :) **supriya1511/supriya1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 -->
