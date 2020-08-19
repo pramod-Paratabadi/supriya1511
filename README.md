@@ -1,10 +1,7 @@
 ### Hi there 👋
-<div>
-  <h1 align="center"> 
-   <img src="https://github.com/supriya1511/supriya1511/blob/master/Hello.gif" width="90px">I amd supriya
+<img src="https://github.com/supriya1511/supriya1511/blob/master/Hello.gif" width="90px">I amd supriya
   
-  </h1>
-</div>
+  
 <!--
 **supriya1511/supriya1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
