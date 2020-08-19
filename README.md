@@ -1,8 +1,7 @@
 ### Hi there 👋
 <div>
   <h1 align="center"> 
-    <strong><img src="<div class="tenor-gif-embed" data-postid="17076801" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/peach-cat-cute-hello-waving-hi-gif-17076801">Peach Cat Cute GIF</a> from <a href="https://tenor.com/search/peachcat-gifs">Peachcat GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="90px"> I am <mark>Srishti Singh</mark></strong><img src="https://media.giphy.com/media/3ohzdJFbmlJ3mQFRYI/giphy.gif" width="90px">
-   
+    <strong><img src="<div class="tenor-gif-embed" data-postid="17076801" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/peach-cat-cute-hello-waving-hi-gif-17076801">Peach Cat Cute GIF</a> from <a href="https://tenor.com/search/peachcat-gifs">Peachcat GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="90px">
   </h1>
 </div>
 <!--
