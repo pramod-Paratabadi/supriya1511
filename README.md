@@ -24,6 +24,7 @@
 </table>
 
 <img height='250' align="right" src="https://github.com/supriya1511/supriya1511/blob/master/OctoGirl.png">
+
 ## Know more about me 
 
 - 🔭 I’m currently working on UI/UX
