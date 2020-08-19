@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
   <h1 align="center"> 
-    <img src="https://github.com/supriya1511/supriya1511/blob/master/animation.mp4" width="90px"> I am Supriya </img>
+    <img src="https://github.com/supriya1511/supriya1511/blob/master/peach.mp4" width="90px"> I am Supriya
   </h1>
 </div>
 <!--
