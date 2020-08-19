@@ -31,6 +31,13 @@
 - 🤔 I’m curios about Adobe after effect
 - 💬 Ask me about Wonders of UI/UX
 - ⚡ Fun fact: I love with octocats :)
+
+<p align="Left"> 
+<img src="https://github.com/supriya1511/supriya1511/blob/master/Hello.gif">
+</p>
+  
+  
+
  <!--- **supriya1511/supriya1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
