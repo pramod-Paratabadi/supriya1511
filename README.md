@@ -24,9 +24,9 @@
 </table>
 
 
-Know more about me 
+## Know more about me 
 
-- 🔭 I’m currently working on UI/UX</p>
+- 🔭 I’m currently working on UI/UX
 - 🌱 I’m currently learning Javascript
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Wonders of UI/UX
