@@ -30,8 +30,7 @@
 - 🌱 I’m currently learning Javascript
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Wonders of UI/UX
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love octocats :)
+- ⚡ Fun fact: I love with octocats :)
  <!--- **supriya1511/supriya1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
