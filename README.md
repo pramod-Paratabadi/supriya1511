@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
   <h1 align="center"> 
-    <video width="320" height="240" controls>
+    <video width="500" height="500">
   <source src="https://github.com/supriya1511/supriya1511/blob/master/peach.mp4" type="video/mp4"></video>
   </h1>
 </div>
