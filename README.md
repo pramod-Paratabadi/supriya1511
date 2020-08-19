@@ -23,10 +23,13 @@
   </row>
 </table>
 
+
+ <table align='center'>
+  <row>
+    <td>
 <img height='250' align="right" src="https://github.com/supriya1511/supriya1511/blob/master/OctoGirl.png">
-
-## Know more about me 
-
+    </td>
+    <td>
 - 🔭 I’m currently working on UI/UX
 
 - 🌱 I’m currently learning Javascript
@@ -36,6 +39,10 @@
 - 💬 Ask me about Wonders of UI/UX
 
 - ⚡ Fun fact: I love with octocats :)
+
+</td>
+</row>
+</table>
 
 
   
